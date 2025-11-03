@@ -33,7 +33,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%232A2A2A.svg?logo=vercel&logoColor=white)](https://your-portfolio-link)
 [![Email](https://img.shields.io/badge/Email-me-%23F6F4F2?logo=gmail&logoColor=black)](mailto:your-email@example.com)
-
----
-
-⭐️ *“Design is intelligence made visible.” — Alina Wheeler*
